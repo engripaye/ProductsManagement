@@ -4,21 +4,28 @@
     <projectFile profileName="http">ProductsManagement/ProductsManagement.csproj</projectFile>
     <projectFile profileName="https">ProductsManagement/ProductsManagement.csproj</projectFile>
   </component>
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="CMakeProjectFlavorService">
+    <option name="flavorId" value="CMakePlainProjectFlavor" />
+  </component>
+  <component name="CMakeSettings">
+    <configurations />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="f8b5dae2-52d9-44e2-a627-17877cd07fc2" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ProductsManagement.sln" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ProductsManagement/ProductsManagement.csproj" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ProductsManagement/ProductsManagement.http" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ProductsManagement/Program.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ProductsManagement/Properties/launchSettings.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ProductsManagement/appsettings.Development.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ProductsManagement/appsettings.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.ProductsManagement/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.ProductsManagement/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProductsManagement/ProductsManagement.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/ProductsManagement/ProductsManagement.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProductsManagement/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/ProductsManagement/Program.cs" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DpaMonitoringSettings">
+    <option name="firstShow" value="false" />
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -40,6 +47,65 @@
     <urls />
   </component>
   <component name="MetaFilesCheckinStateConfiguration" checkMetaFiles="true" />
+  <component name="NextEditCompletionFeaturesState">
+    <decayedCancelled>
+      <entry key="MS100" value="1.0" />
+      <entry key="MS500" value="1.0001346991687197" />
+      <entry key="S2" value="1.1149170750221022" />
+      <entry key="S5" value="1.5490126479626398" />
+      <entry key="S10" value="2.013076809010153" />
+      <entry key="S30" value="2.6106789584924726" />
+      <entry key="S60" value="3.1936054150617905" />
+      <entry key="M2" value="4.46523025842021" />
+      <entry key="M5" value="6.471458372078785" />
+      <entry key="M10" value="7.570896861640122" />
+      <entry key="M15" value="8.006201497714178" />
+      <entry key="M30" value="8.481333525280991" />
+      <entry key="H1" value="8.734980131153081" />
+      <entry key="H2" value="8.866036597975942" />
+      <entry key="H4" value="8.93265087791832" />
+      <entry key="D1" value="8.988723767824817" />
+      <entry key="W1" value="8.9983878468802" />
+    </decayedCancelled>
+    <decayedSelected>
+      <entry key="MS100" value="1.641966575200276E-8" />
+      <entry key="MS500" value="0.027738830706164664" />
+      <entry key="S2" value="0.43953618374847" />
+      <entry key="S5" value="0.9493164850382502" />
+      <entry key="S10" value="1.336488209490469" />
+      <entry key="S30" value="1.7360130154408584" />
+      <entry key="S60" value="1.8616408932837343" />
+      <entry key="M2" value="1.9291406884128044" />
+      <entry key="M5" value="1.9712412361022091" />
+      <entry key="M10" value="1.9855504278214333" />
+      <entry key="M15" value="1.9903512777854373" />
+      <entry key="M30" value="1.99516778268771" />
+      <entry key="H1" value="1.9975819236920918" />
+      <entry key="H2" value="1.9987904694822927" />
+      <entry key="H4" value="1.99939511159381" />
+      <entry key="D1" value="1.9998991681570493" />
+      <entry key="W1" value="1.999985595031959" />
+    </decayedSelected>
+    <decayedShown>
+      <entry key="MS100" value="0.10294887715844665" />
+      <entry key="MS500" value="0.6352541190069435" />
+      <entry key="S2" value="1.162270021432666" />
+      <entry key="S5" value="2.106217505611698" />
+      <entry key="S10" value="3.0418007463344456" />
+      <entry key="S30" value="4.2005963959230925" />
+      <entry key="S60" value="4.974393822982504" />
+      <entry key="M2" value="6.351115342873296" />
+      <entry key="M5" value="8.424322566054528" />
+      <entry key="M10" value="9.547011917566588" />
+      <entry key="M15" value="9.990200455512994" />
+      <entry key="M30" value="10.473292021804264" />
+      <entry key="H1" value="10.730948707973901" />
+      <entry key="H2" value="10.864018162468353" />
+      <entry key="H4" value="10.931640971993438" />
+      <entry key="D1" value="10.988555353972192" />
+      <entry key="W1" value="10.99836378539438" />
+    </decayedShown>
+  </component>
   <component name="ProjectColorInfo"><![CDATA[{
   "associatedIndex": 5,
   "fromUser": false
@@ -51,6 +117,8 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    ".NET Launch Settings Profile.ProductsManagement: http.executor": "Run",
+    "HTTP Request.ProductsManagement | #1.executor": "Run",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.MCP Project settings loaded": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -58,17 +126,38 @@
     "RunOnceActivity.git.unshallow": "true",
     "RunOnceActivity.readMode.enableVisualFormatting": "true",
     "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "SONARLINT_PRECOMMIT_ANALYSIS": "true",
     "cidr.known.project.marker": "true",
     "codeWithMe.voiceChat.enabledByDefault": "false",
     "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
     "git-widget-placeholder": "master",
     "junie.onboarding.icon.badge.shown": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
     "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable",
     "to.speed.mode.migration.done": "true"
   }
 }]]></component>
+  <component name="RunDashboard">
+    <option name="configurationStatuses">
+      <map>
+        <entry key="HttpClient.HttpRequestRunConfigurationType">
+          <value>
+            <map>
+              <entry key="ProductsManagement | #1" value="STOPPED" />
+            </map>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="RunManager" selected=".NET Launch Settings Profile.ProductsManagement: http">
+    <configuration name="ProductsManagement | #1" type="HttpClient.HttpRequestRunConfigurationType" factoryName="HTTP Request" temporary="true" nameIsGenerated="true" path="$PROJECT_DIR$/ProductsManagement/ProductsManagement.http" executionIdentifier="#1" runType="Run single request">
+      <method v="2" />
+    </configuration>
     <configuration name="ProductsManagement: http" type="LaunchSettings" factoryName=".NET Launch Settings Profile">
       <option name="LAUNCH_PROFILE_PROJECT_FILE_PATH" value="$PROJECT_DIR$/ProductsManagement/ProductsManagement.csproj" />
       <option name="LAUNCH_PROFILE_TFM" value="net10.0" />
@@ -101,6 +190,11 @@
         <option name="Build" />
       </method>
     </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="HTTP Request.ProductsManagement | #1" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -119,6 +213,8 @@
   <component name="UnityProjectConfiguration" hasMinimizedUI="false" />
   <component name="VcsManagerConfiguration">
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+    <MESSAGE value="init commit by ENGR. IPAYE" />
+    <option name="LAST_COMMIT_MESSAGE" value="init commit by ENGR. IPAYE" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

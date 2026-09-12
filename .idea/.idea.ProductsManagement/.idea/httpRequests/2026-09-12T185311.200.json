@@ -1,0 +1,32 @@
+[
+  {
+    "date": "2026-09-13",
+    "temperatureC": 42,
+    "summary": "Cool",
+    "temperatureF": 107
+  },
+  {
+    "date": "2026-09-14",
+    "temperatureC": 5,
+    "summary": "Cool",
+    "temperatureF": 40
+  },
+  {
+    "date": "2026-09-15",
+    "temperatureC": 35,
+    "summary": "Scorching",
+    "temperatureF": 94
+  },
+  {
+    "date": "2026-09-16",
+    "temperatureC": 0,
+    "summary": "Sweltering",
+    "temperatureF": 32
+  },
+  {
+    "date": "2026-09-17",
+    "temperatureC": 2,
+    "summary": "Bracing",
+    "temperatureF": 35
+  }
+]
