@@ -14,9 +14,7 @@
     <configurations />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f8b5dae2-52d9-44e2-a627-17877cd07fc2" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.ProductsManagement/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.ProductsManagement/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="f8b5dae2-52d9-44e2-a627-17877cd07fc2" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -52,61 +50,61 @@
   <component name="MetaFilesCheckinStateConfiguration" checkMetaFiles="true" />
   <component name="NextEditCompletionFeaturesState">
     <decayedCancelled>
-      <entry key="MS100" value="1.214641552241804" />
-      <entry key="MS500" value="1.8117404481654291" />
-      <entry key="S2" value="3.3586166038149927" />
-      <entry key="S5" value="6.264247793621206" />
-      <entry key="S10" value="9.271948192554802" />
-      <entry key="S30" value="13.103292759803358" />
-      <entry key="S60" value="14.56524392650036" />
-      <entry key="M2" value="15.549778668031564" />
-      <entry key="M5" value="16.475176415396298" />
-      <entry key="M10" value="22.49075987544892" />
-      <entry key="M15" value="39.70588380404305" />
-      <entry key="M30" value="116.01723808204056" />
-      <entry key="H1" value="232.43915776776825" />
-      <entry key="H2" value="338.793140302081" />
-      <entry key="H4" value="411.60162176775384" />
-      <entry key="D1" value="485.5337734103829" />
-      <entry key="W1" value="499.6107910016651" />
+      <entry key="MS100" value="1.0073400215292612" />
+      <entry key="MS500" value="1.3842906239204125" />
+      <entry key="S2" value="2.701783412201613" />
+      <entry key="S5" value="6.006171163835769" />
+      <entry key="S10" value="10.130490865421734" />
+      <entry key="S30" value="17.227071939175786" />
+      <entry key="S60" value="20.736171544460767" />
+      <entry key="M2" value="23.089050751921434" />
+      <entry key="M5" value="25.69162622970759" />
+      <entry key="M10" value="30.74122576708247" />
+      <entry key="M15" value="40.873943764656566" />
+      <entry key="M30" value="97.81187756385219" />
+      <entry key="H1" value="209.0388031681508" />
+      <entry key="H2" value="326.67820395402003" />
+      <entry key="H4" value="413.7658608948452" />
+      <entry key="D1" value="506.73142204403985" />
+      <entry key="W1" value="524.9018638678581" />
     </decayedCancelled>
     <decayedSelected>
       <entry key="MS100" value="0.0" />
-      <entry key="MS500" value="7.2712576738193E-111" />
-      <entry key="S2" value="4.127133326627489E-28" />
-      <entry key="S5" value="1.651031465041119E-11" />
-      <entry key="S10" value="5.725502922120924E-6" />
-      <entry key="S30" value="0.028375134980177855" />
-      <entry key="S60" value="0.23819889318114554" />
-      <entry key="M2" value="0.6901983973670859" />
-      <entry key="M5" value="1.325698185170375" />
-      <entry key="M10" value="2.5911792482108855" />
-      <entry key="M15" value="5.591907543817779" />
-      <entry key="M30" value="18.285070925721502" />
-      <entry key="H1" value="37.28416984539245" />
-      <entry key="H2" value="54.546710600390284" />
-      <entry key="H4" value="66.34930930330849" />
-      <entry key="D1" value="78.33126690053291" />
-      <entry key="W1" value="80.6127667428426" />
+      <entry key="MS500" value="0.0" />
+      <entry key="S2" value="2.0045323413294113E-214" />
+      <entry key="S5" value="4.92380876962847E-86" />
+      <entry key="S10" value="3.1267024531974448E-43" />
+      <entry key="S30" value="1.076536867379358E-14" />
+      <entry key="S60" value="1.4671861706000587E-7" />
+      <entry key="M2" value="5.416848500727998E-4" />
+      <entry key="M5" value="0.0759195733640267" />
+      <entry key="M10" value="0.6200861132351719" />
+      <entry key="M15" value="2.1554089469270297" />
+      <entry key="M30" value="11.352238293700852" />
+      <entry key="H1" value="29.37763985643644" />
+      <entry key="H2" value="48.418884340381446" />
+      <entry key="H4" value="62.511441306137876" />
+      <entry key="D1" value="77.55723811977545" />
+      <entry key="W1" value="80.49848565991856" />
     </decayedSelected>
     <decayedShown>
-      <entry key="MS100" value="1.1718342707642122" />
-      <entry key="MS500" value="1.7982310584584114" />
-      <entry key="S2" value="3.351965184361253" />
-      <entry key="S5" value="6.254205440669547" />
-      <entry key="S10" value="9.259820287742432" />
-      <entry key="S30" value="13.120698309968292" />
-      <entry key="S60" value="14.786606912801464" />
-      <entry key="M2" value="16.22026190721659" />
-      <entry key="M5" value="17.786821492792544" />
-      <entry key="M10" value="25.069122872080744" />
-      <entry key="M15" value="45.28004524930141" />
-      <entry key="M30" value="134.27371756837" />
-      <entry key="H1" value="269.6942184072243" />
-      <entry key="H2" value="393.3185740307516" />
-      <entry key="H4" value="477.93799826068107" />
-      <entry key="D1" value="563.8624971727045" />
-      <entry key="W1" value="580.2231839025038" />
+      <entry key="MS100" value="0.9729773482132813" />
+      <entry key="MS500" value="1.3742152589425767" />
+      <entry key="S2" value="2.696885383550356" />
+      <entry key="S5" value="6.001769609123872" />
+      <entry key="S10" value="10.125723000702134" />
+      <entry key="S30" value="17.20145026559027" />
+      <entry key="S60" value="20.699609950879847" />
+      <entry key="M2" value="23.058237870231054" />
+      <entry key="M5" value="25.74937104865" />
+      <entry key="M10" value="31.348558957207153" />
+      <entry key="M15" value="43.01581584519982" />
+      <entry key="M30" value="109.14289247451715" />
+      <entry key="H1" value="238.3917386149573" />
+      <entry key="H2" value="375.07730952731333" />
+      <entry key="H4" value="476.2646693528729" />
+      <entry key="D1" value="584.2860671857335" />
+      <entry key="W1" value="605.3999654988047" />
     </decayedShown>
   </component>
   <component name="ProjectColorInfo">{
@@ -118,32 +116,33 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;.NET Launch Settings Profile.ProductsManagement: http.executor&quot;: &quot;Run&quot;,
-    &quot;HTTP Request.ProductsManagement | #1.executor&quot;: &quot;Run&quot;,
-    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.MCP Project settings loaded&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.cidr.known.project.marker&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.readMode.enableVisualFormatting&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
-    &quot;SONARLINT_PRECOMMIT_ANALYSIS&quot;: &quot;true&quot;,
-    &quot;cidr.known.project.marker&quot;: &quot;true&quot;,
-    &quot;codeWithMe.voiceChat.enabledByDefault&quot;: &quot;false&quot;,
-    &quot;com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;junie.onboarding.icon.badge.shown&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;org.jetbrains.plugins.github.ui.GithubSettingsConfigurable&quot;,
-    &quot;to.speed.mode.migration.done&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    ".NET Launch Settings Profile.ProductsManagement: http.executor": "Run",
+    "HTTP Request.ProductsManagement | #1.executor": "Run",
+    "HTTP Request.ProductsManagement | GET Product by id.executor": "Run",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.MCP Project settings loaded": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.cidr.known.project.marker": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.readMode.enableVisualFormatting": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "SONARLINT_PRECOMMIT_ANALYSIS": "true",
+    "cidr.known.project.marker": "true",
+    "codeWithMe.voiceChat.enabledByDefault": "false",
+    "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
+    "git-widget-placeholder": "master",
+    "junie.onboarding.icon.badge.shown": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable",
+    "to.speed.mode.migration.done": "true"
   }
-}</component>
+}]]></component>
   <component name="RunDashboard">
     <option name="configurationStatuses">
       <map>
@@ -151,6 +150,7 @@
           <value>
             <map>
               <entry key="ProductsManagement | #1" value="STOPPED" />
+              <entry key="ProductsManagement | GET Product by id" value="STOPPED" />
             </map>
           </value>
         </entry>
@@ -235,7 +235,8 @@
     <MESSAGE value="feat: delete id product impl commit by ENGR. IPAYE" />
     <MESSAGE value="refractor: product controller updated commit by ENGR. IPAYE" />
     <MESSAGE value="fix: program service updated commit by ENGR. IPAYE" />
-    <option name="LAST_COMMIT_MESSAGE" value="fix: program service updated commit by ENGR. IPAYE" />
+    <MESSAGE value="refractor: http method updated commit by ENGR IPAYE" />
+    <option name="LAST_COMMIT_MESSAGE" value="refractor: http method updated commit by ENGR IPAYE" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
