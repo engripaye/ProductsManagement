@@ -6,18 +6,19 @@ namespace ProductsManagement.Controllers
 {
     [Route("api/[controller]")]
     [ApiController]
-    public class ProductsController : Controller
+    public class ProductsController : ControllerBase
     {
+        static List<Product> products = new List<Product>
+        {
+            new Product { Id = 1, name = "Laptop", Description = "Laptop is 12cm long", price = 999.99M },
+            new Product { Id = 2, name = "SmartPhone", price = 499.99M },
+            new Product { Id = 3, name = "iWatch", price = 199.99M }
+        };
         // GET
         [HttpGet]
         public IActionResult GetProduct()
         {
-            var products = new List<Product>();
-            {
-                new Product { Id = 1, name = "Laptop", Description = "Laptop is 12cm long", price = 999.99M },
-                new Product { Id = 2, name = "SmartPhone", price = 499.99M },
-                new Product { Id = 3, name = "iWatch", price = 199.99M }
-            };
+            
             return Ok(products);
         }
     }
