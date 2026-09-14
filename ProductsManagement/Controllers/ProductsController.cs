@@ -10,9 +10,9 @@ namespace ProductsManagement.Controllers
     {
         static List<Product> products = new List<Product>
         {
-            new Product { Id = 1, Name = "Laptop", Description = "Laptop is 12cm long", price = 999.99M },
-            new Product { Id = 2, Name = "SmartPhone", price = 499.99M },
-            new Product { Id = 3, Name = "iWatch", price = 199.99M }
+            new Product { Id = 1, Name = "Laptop", Description = "Laptop is 12cm long", Price = 999.99M },
+            new Product { Id = 2, Name = "SmartPhone", Price = 499.99M },
+            new Product { Id = 3, Name = "iWatch", Price = 199.99M }
         };
         // GET
         [HttpGet]
