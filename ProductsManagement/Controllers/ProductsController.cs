@@ -62,6 +62,7 @@ namespace ProductsManagement.Controllers
             }
 
             products.Remove(product);
+            
             return NoContent();
         }
     }
