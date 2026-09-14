@@ -16,10 +16,17 @@ namespace ProductsManagement.Controllers
         };
         // GET
         [HttpGet]
-        public IActionResult GetProduct()
+        public IActionResult GetProducts()
         {
             
             return Ok(products);
+        }
+
+        [HttpGet]
+        [Route("{id}")]
+        public IActionResult GetProductById(int id)
+        {
+            
         }
     }
 
