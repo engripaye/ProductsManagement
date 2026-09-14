@@ -50,6 +50,20 @@ namespace ProductsManagement.Controllers
             
             return NoContent();
         }
+
+        [HttpDelete]
+        [Route("{id}")]
+        public IActionResult DeleteProduct(int id)
+        {
+            var product = products.FirstOrDefault(p => p.Id == id);
+            if (product == null)
+            {
+                return NotFound();
+            }
+
+            products.Remove(product);
+            return NoContent();
+        }
     }
 
 }
