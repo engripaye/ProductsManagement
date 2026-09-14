@@ -34,6 +34,22 @@ namespace ProductsManagement.Controllers
            }
            return Ok(response);
         }
+
+        [HttpPut]
+        [Route("{id}")]
+        public IActionResult UpdateProduct(int id, Product product)
+        {
+            var existingProduct = products.FirstOrDefault(p => p.Id == id);
+            if (existingProduct == null)
+            {
+                return NotFound();
+            }
+            existingProduct.Name = product.Name;
+            existingProduct.Description = product.Description;
+            existingProduct.Price = product.Price;
+            
+            return NoContent();
+        }
     }
 
 }
