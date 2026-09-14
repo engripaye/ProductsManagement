@@ -26,7 +26,13 @@ namespace ProductsManagement.Controllers
         [Route("{id}")]
         public IActionResult GetProductById(int id)
         {
-            
+           var response = products.FirstOrDefault(p => p.Id == id);
+
+           if (response == null)
+           {
+               return NotFound();
+           }
+           return Ok(response);
         }
     }
 
