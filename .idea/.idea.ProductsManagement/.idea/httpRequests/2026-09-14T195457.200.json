@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "name": "Laptop",
+    "description": "Laptop is 12cm long",
+    "price": 999.99
+  },
+  {
+    "id": 2,
+    "name": "Dell laptop 2026",
+    "description": "fast, durable and sleek",
+    "price": 999.99
+  },
+  {
+    "id": 3,
+    "name": "iWatch",
+    "description": null,
+    "price": 199.99
+  }
+]
