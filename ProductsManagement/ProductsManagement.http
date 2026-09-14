@@ -4,5 +4,17 @@ GET {{ProductsManagement_HostAddress}}/api/products/
 Accept: application/json
 
 ### GET Product by id
-GET {{ProductsManagement_HostAddress}}/api/products/1
+GET {{ProductsManagement_HostAddress}}/api/products/2
 Accept: application/json
+
+### update product 
+PUT {{ProductsManagement_HostAddress}}/api/products/2
+Accept: application/json
+Content-Type: application/json
+
+{
+  "id": 2,
+  "name": "Dell laptop 2026",
+  "description": "fast, durable and sleek",
+  "price": 999.99
+}
