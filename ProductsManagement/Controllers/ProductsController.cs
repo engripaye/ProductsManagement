@@ -1,5 +1,6 @@
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Http;
+using ProductsManagement.Models;
 
 namespace ProductsManagement.Controllers
 {
@@ -11,11 +12,11 @@ namespace ProductsManagement.Controllers
         [HttpGet]
         public IActionResult GetProduct()
         {
-            var products = new[]
+            var products = new List<Product>();
             {
-                new { Id = 1, name = "Laptop", price = 999.99 },
-                new { Id = 2, name = "SmartPhone", price = 499.99 },
-                new { Id = 3, name = "iWatch", price = 199.99 }
+                new Product { Id = 1, name = "Laptop", Description = "Laptop is 12cm long", price = 999.99M },
+                new Product { Id = 2, name = "SmartPhone", price = 499.99M },
+                new Product { Id = 3, name = "iWatch", price = 199.99M }
             };
             return Ok(products);
         }
