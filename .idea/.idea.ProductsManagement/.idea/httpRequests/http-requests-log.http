@@ -1,3 +1,9 @@
+DELETE http://localhost:5046/api/products/4
+Accept: application/json
+
+<> 2026-09-14T195405.404.json
+
+###
 GET http://localhost:5046/api/products/2
 Accept: application/json
 

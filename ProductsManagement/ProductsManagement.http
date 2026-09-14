@@ -18,3 +18,7 @@ Content-Type: application/json
   "description": "fast, durable and sleek",
   "price": 999.99
 }
+
+### DELETE a product 
+DELETE {{ProductsManagement_HostAddress}}/api/products/4
+Accept: application/json
