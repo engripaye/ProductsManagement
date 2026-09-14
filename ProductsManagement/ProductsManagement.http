@@ -1,6 +1,8 @@
 @ProductsManagement_HostAddress = http://localhost:5046
 
-GET {{ProductsManagement_HostAddress}}/weatherforecast/
+GET {{ProductsManagement_HostAddress}}/api/products/
 Accept: application/json
 
-###
+### GET Product by id
+GET {{ProductsManagement_HostAddress}}/api/products/1
+Accept: application/json

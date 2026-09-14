@@ -1,3 +1,15 @@
+GET http://localhost:5046/api/products/1
+Accept: application/json
+
+<> 2026-09-14T194008.200.json
+
+###
+GET http://localhost:5046/api/products/
+Accept: application/json
+
+<> 2026-09-14T193913.200.json
+
+###
 GET http://localhost:5046/weatherforecast/
 Accept: application/json
 
