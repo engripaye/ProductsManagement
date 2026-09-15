@@ -15,7 +15,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f8b5dae2-52d9-44e2-a627-17877cd07fc2" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/ProductsManagement/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/ProductsManagement/Program.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.ProductsManagement/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.ProductsManagement/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProductsManagement/ProductsManagement.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/ProductsManagement/ProductsManagement.csproj" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,61 +55,61 @@
   <component name="MetaFilesCheckinStateConfiguration" checkMetaFiles="true" />
   <component name="NextEditCompletionFeaturesState">
     <decayedCancelled>
-      <entry key="MS100" value="1.0" />
-      <entry key="MS500" value="1.000000001891712" />
-      <entry key="S2" value="1.0355257198794419" />
-      <entry key="S5" value="2.2084639536855777" />
-      <entry key="S10" value="5.157396620686287" />
-      <entry key="S30" value="13.219752692897986" />
-      <entry key="S60" value="21.15549186397455" />
-      <entry key="M2" value="31.56838328259527" />
-      <entry key="M5" value="54.66481527324205" />
-      <entry key="M10" value="86.5682150452035" />
-      <entry key="M15" value="111.63535650988216" />
-      <entry key="M30" value="177.92383858247084" />
-      <entry key="H1" value="295.6133575772112" />
-      <entry key="H2" value="434.48261249900133" />
-      <entry key="H4" value="546.5429652197706" />
-      <entry key="D1" value="673.8473256511902" />
-      <entry key="W1" value="699.5849086931715" />
+      <entry key="MS100" value="1.0117146103549226" />
+      <entry key="MS500" value="1.725959609867383" />
+      <entry key="S2" value="4.163316865470958" />
+      <entry key="S5" value="7.790369791758441" />
+      <entry key="S10" value="10.797151117476307" />
+      <entry key="S30" value="16.643593588107635" />
+      <entry key="S60" value="24.5463695089809" />
+      <entry key="M2" value="36.758111451574834" />
+      <entry key="M5" value="62.4971243005166" />
+      <entry key="M10" value="95.92148645622206" />
+      <entry key="M15" value="121.87032355284371" />
+      <entry key="M30" value="189.29342151083213" />
+      <entry key="H1" value="307.7546352582195" />
+      <entry key="H2" value="447.64224493271104" />
+      <entry key="H4" value="560.7548364295171" />
+      <entry key="D1" value="689.4795766250897" />
+      <entry key="W1" value="715.5303582393799" />
     </decayedCancelled>
     <decayedSelected>
-      <entry key="MS100" value="1.5613322921892576E-17" />
-      <entry key="MS500" value="4.35210203074693E-4" />
-      <entry key="S2" value="0.14445011558171075" />
-      <entry key="S5" value="0.47419690089634753" />
-      <entry key="S10" value="0.8513963994357717" />
-      <entry key="S30" value="2.2493404664689263" />
-      <entry key="S60" value="3.726981058961687" />
-      <entry key="M2" value="5.869146611628482" />
-      <entry key="M5" value="9.064250630252188" />
-      <entry key="M10" value="11.184830151185551" />
-      <entry key="M15" value="12.588284939050316" />
-      <entry key="M30" value="18.77159028018563" />
-      <entry key="H1" value="34.42563692359609" />
-      <entry key="H2" value="54.80326261347834" />
-      <entry key="H4" value="71.77039312091102" />
-      <entry key="D1" value="91.33477236630985" />
-      <entry key="W1" value="95.31626932357912" />
+      <entry key="MS100" value="6.444359891511981E-222" />
+      <entry key="MS500" value="5.77877728757871E-45" />
+      <entry key="S2" value="8.719711495105666E-12" />
+      <entry key="S5" value="3.875006186572023E-5" />
+      <entry key="S10" value="0.00769641812439777" />
+      <entry key="S30" value="0.4685696385170512" />
+      <entry key="S60" value="1.7010483565248375" />
+      <entry key="M2" value="3.9651050276038005" />
+      <entry key="M5" value="7.748253127886915" />
+      <entry key="M10" value="10.34106673592886" />
+      <entry key="M15" value="11.946954132463139" />
+      <entry key="M30" value="18.287164951649157" />
+      <entry key="H1" value="33.97853436173733" />
+      <entry key="H2" value="54.446221186939155" />
+      <entry key="H4" value="71.53622023282061" />
+      <entry key="D1" value="91.28503676312602" />
+      <entry key="W1" value="95.30885277902253" />
     </decayedSelected>
     <decayedShown>
-      <entry key="MS100" value="1.1244978860920476E-10" />
-      <entry key="MS500" value="0.010342984659139834" />
-      <entry key="S2" value="0.4544537231325925" />
-      <entry key="S5" value="2.226757858636569" />
-      <entry key="S10" value="5.662852268007232" />
-      <entry key="S30" value="15.219900939065209" />
-      <entry key="S60" value="24.688608630875482" />
-      <entry key="M2" value="37.28207054287779" />
-      <entry key="M5" value="63.62715336386824" />
-      <entry key="M10" value="97.68699281866667" />
-      <entry key="M15" value="124.17290613591196" />
-      <entry key="M30" value="196.65852830663826" />
-      <entry key="H1" value="330.0076266284037" />
-      <entry key="H2" value="489.26203065530984" />
-      <entry key="H4" value="618.2980724436275" />
-      <entry key="D1" value="765.1789072446736" />
-      <entry key="W1" value="794.9007035395629" />
+      <entry key="MS100" value="0.9840492211310087" />
+      <entry key="MS500" value="1.716412900898384" />
+      <entry key="S2" value="4.148697257491124" />
+      <entry key="S5" value="7.765546007718242" />
+      <entry key="S10" value="10.78029840869068" />
+      <entry key="S30" value="17.04987291994432" />
+      <entry key="S60" value="26.153230602552338" />
+      <entry key="M2" value="40.61519960504728" />
+      <entry key="M5" value="70.15703014801808" />
+      <entry key="M10" value="106.20086232658065" />
+      <entry key="M15" value="133.76871161065986" />
+      <entry key="M30" value="207.54442973592288" />
+      <entry key="H1" value="341.7021047533617" />
+      <entry key="H2" value="502.0647247748971" />
+      <entry key="H4" value="632.2757945131377" />
+      <entry key="D1" value="780.7614199969487" />
+      <entry key="W1" value="810.8387359558196" />
     </decayedShown>
   </component>
   <component name="ProjectColorInfo">{
@@ -120,35 +121,35 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    ".NET Launch Settings Profile.ProductsManagement: http.executor": "Run",
-    "HTTP Request.ProductsManagement | #1.executor": "Run",
-    "HTTP Request.ProductsManagement | DELETE a product.executor": "Run",
-    "HTTP Request.ProductsManagement | GET Product by id.executor": "Run",
-    "HTTP Request.ProductsManagement | update product.executor": "Run",
-    "ModuleVcsDetector.initialDetectionPerformed": "true",
-    "RunOnceActivity.MCP Project settings loaded": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.cidr.known.project.marker": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "RunOnceActivity.readMode.enableVisualFormatting": "true",
-    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
-    "SONARLINT_PRECOMMIT_ANALYSIS": "true",
-    "cidr.known.project.marker": "true",
-    "codeWithMe.voiceChat.enabledByDefault": "false",
-    "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
-    "git-widget-placeholder": "master",
-    "junie.onboarding.icon.badge.shown": "true",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable",
-    "to.speed.mode.migration.done": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;.NET Launch Settings Profile.ProductsManagement: http.executor&quot;: &quot;Run&quot;,
+    &quot;HTTP Request.ProductsManagement | #1.executor&quot;: &quot;Run&quot;,
+    &quot;HTTP Request.ProductsManagement | DELETE a product.executor&quot;: &quot;Run&quot;,
+    &quot;HTTP Request.ProductsManagement | GET Product by id.executor&quot;: &quot;Run&quot;,
+    &quot;HTTP Request.ProductsManagement | update product.executor&quot;: &quot;Run&quot;,
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.MCP Project settings loaded&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.cidr.known.project.marker&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.readMode.enableVisualFormatting&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
+    &quot;SONARLINT_PRECOMMIT_ANALYSIS&quot;: &quot;true&quot;,
+    &quot;cidr.known.project.marker&quot;: &quot;true&quot;,
+    &quot;codeWithMe.voiceChat.enabledByDefault&quot;: &quot;false&quot;,
+    &quot;com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;junie.onboarding.icon.badge.shown&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;org.jetbrains.plugins.github.ui.GithubSettingsConfigurable&quot;,
+    &quot;to.speed.mode.migration.done&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RunDashboard">
     <option name="configurationStatuses">
       <map>
@@ -257,7 +258,8 @@
     <MESSAGE value="refractor: api updated commit by ENGR. IPAYE" />
     <MESSAGE value="refractor: entity framework dependecies updated commit by ENGR. IPAYE" />
     <MESSAGE value="feat: database context impl commit by ENGR. IPAYE" />
-    <option name="LAST_COMMIT_MESSAGE" value="feat: database context impl commit by ENGR. IPAYE" />
+    <MESSAGE value="refractor: program cs updated commit by ENGR. IPAYE" />
+    <option name="LAST_COMMIT_MESSAGE" value="refractor: program cs updated commit by ENGR. IPAYE" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

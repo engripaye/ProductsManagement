@@ -1,3 +1,4 @@
+using Microsoft.EntityFrameworkCore;
 using ProductsManagement.Data;
 using Scalar.AspNetCore;
 
