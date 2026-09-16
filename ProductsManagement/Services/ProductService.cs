@@ -28,11 +28,13 @@ public class ProductService: IProductService
 
     public Product? GetProductById(int id)
     {
-        throw new NotImplementedException();
+        var product = context.Products.Find(id);
+
+        return product;
     }
 
     public void UpdateProduct(int id, Product product)
     {
-        throw new NotImplementedException();
+        
     }
 }
