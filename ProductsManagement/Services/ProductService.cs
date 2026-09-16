@@ -10,10 +10,12 @@ public class ProductService: IProductService
     {
         context = appDbContext;
     }
-    public void AddProduct(Product product)
+    public Product AddProduct (Product product)
     {
         var newProduct = context.Products.Add(product);
         context.SaveChanges();
+        return newProduct.Entity;
+
     }
     
     public void DeleteProduct(int id)
