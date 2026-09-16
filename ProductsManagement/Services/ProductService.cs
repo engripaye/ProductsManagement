@@ -17,7 +17,12 @@ public class ProductService: IProductService
     
     public void DeleteProduct(int id)
     {
-        throw new NotImplementedException();
+        var product = context.Products.Find(id);
+        if (product != null)
+        {
+            context.Products.Remove(product);
+            context.SaveChanges();
+        }
     }
 
     public IEnumerable<Product> GetAllProducts()
