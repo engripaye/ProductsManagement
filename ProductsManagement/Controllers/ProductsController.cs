@@ -27,14 +27,14 @@ namespace ProductsManagement.Controllers
         public IActionResult GetProducts()
         {
             
-            return Ok(products);
+            return Ok(service.GetAllProducts());
         }
 
         [HttpGet]
         [Route("{id}")]
         public IActionResult GetProductById(int id)
         {
-           var response = products.FirstOrDefault(p => p.Id == id);
+            var response = service.GetProductById(id);
 
            if (response == null)
            {
@@ -47,14 +47,15 @@ namespace ProductsManagement.Controllers
         [Route("{id}")]
         public IActionResult UpdateProduct(int id, Product product)
         {
-            var existingProduct = products.FirstOrDefault(p => p.Id == id);
-            if (existingProduct == null)
+            try
             {
-                return NotFound();
+
             }
-            existingProduct.Name = product.Name;
-            existingProduct.Description = product.Description;
-            existingProduct.Price = product.Price;
+            catch (Exception)
+            {
+                
+            }
+            service.UpdateProduct(id, product);
             
             return NoContent();
         }
