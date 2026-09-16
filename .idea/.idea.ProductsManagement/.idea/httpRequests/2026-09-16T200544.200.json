@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "name": "iPhone 17",
+    "description": "Apple smartphone",
+    "price": 1500000.00
+  },
+  {
+    "id": 2,
+    "name": "MacBook Pro",
+    "description": "Apple laptop",
+    "price": 2500000.00
+  },
+  {
+    "id": 3,
+    "name": "Samsung Galaxy S26",
+    "description": "Samsung smartphone",
+    "price": 1200000.00
+  },
+  {
+    "id": 4,
+    "name": "AirPods Pro",
+    "description": "Apple wireless earbuds",
+    "price": 450000.00
+  }
+]

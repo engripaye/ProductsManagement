@@ -1,3 +1,9 @@
+GET http://localhost:5046/api/products/
+Accept: application/json
+
+<> 2026-09-16T200544.200.json
+
+###
 POST http://localhost:5046/api/products/
 Accept: application/json
 Content-Type: application/json
