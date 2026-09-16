@@ -1,4 +1,5 @@
 using ProductsManagement.Data;
+using ProductsManagement.Dtos;
 using ProductsManagement.Models;
 
 namespace ProductsManagement.Services;
@@ -10,8 +11,15 @@ public class ProductService: IProductService
     {
         context = appDbContext;
     }
-    public Product AddProduct (Product product)
+    public Product AddProduct (ProductRequest productRequest)
     {
+        var product = new Product
+        {
+            Id = 0, // id will be set by the database
+            Name = productRequest.Name,
+            Description = productRequest.Description,
+            Price = productRequest.Price
+        };
         var newProduct = context.Products.Add(product);
         context.SaveChanges();
         return newProduct.Entity;

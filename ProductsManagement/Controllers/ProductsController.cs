@@ -1,5 +1,6 @@
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Http;
+using ProductsManagement.Dtos;
 using ProductsManagement.Models;
 using ProductsManagement.Services;
 
@@ -39,7 +40,7 @@ namespace ProductsManagement.Controllers
         }
 
         [HttpPost]
-        public IActionResult CreateProduct(Product product)
+        public IActionResult CreateProduct(ProductRequest product)
         {
             var createdProduct = service.AddProduct(product);
             return CreatedAtAction(nameof(GetProductById), new { id = createdProduct.Id }, createdProduct);
