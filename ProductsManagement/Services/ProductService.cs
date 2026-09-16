@@ -1,9 +1,15 @@
+using ProductsManagement.Data;
 using ProductsManagement.Models;
 
 namespace ProductsManagement.Services;
 
 public class ProductService: IProductService
 {
+    private readonly AppDbContext context;
+    public ProductService(AppDbContext appDbContext)
+    {
+        context = appDbContext;
+    }
     public void AddProduct(Product product)
     {
         throw new NotImplementedException();
