@@ -49,15 +49,15 @@ namespace ProductsManagement.Controllers
         {
             try
             {
-
+                service.UpdateProduct(id, product);
+            
+                return NoContent();
             }
             catch (Exception)
             {
-                
+                return NotFound();
             }
-            service.UpdateProduct(id, product);
             
-            return NoContent();
         }
 
         [HttpDelete]
