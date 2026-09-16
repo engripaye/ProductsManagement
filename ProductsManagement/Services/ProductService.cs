@@ -23,7 +23,7 @@ public class ProductService: IProductService
     public IEnumerable<Product> GetAllProducts()
     {
         var products = context.Products.ToList();
-        
+        return products;
     }
 
     public Product? GetProductById(int id)
