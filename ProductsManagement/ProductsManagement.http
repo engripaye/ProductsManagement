@@ -7,6 +7,18 @@ Accept: application/json
 GET {{ProductsManagement_HostAddress}}/api/products/2
 Accept: application/json
 
+### add a  product 
+POST {{ProductsManagement_HostAddress}}/api/products/
+Accept: application/json
+Content-Type: application/json
+
+{
+  "id": 5,
+  "name": "Dell laptop 2026",
+  "description": "fast, durable and sleek",
+  "price": 999.99
+}
+
 ### update product 
 PUT {{ProductsManagement_HostAddress}}/api/products/2
 Accept: application/json

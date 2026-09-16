@@ -1,3 +1,17 @@
+POST http://localhost:5046/api/products/
+Accept: application/json
+Content-Type: application/json
+
+{
+  "id": 5,
+  "name": "Dell laptop 2026",
+  "description": "fast, durable and sleek",
+  "price": 999.99
+}
+
+<> 2026-09-16T194948.500.txt
+
+###
 GET http://localhost:5046/api/products/
 Accept: application/json
 
