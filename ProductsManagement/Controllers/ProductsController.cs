@@ -1,6 +1,7 @@
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Http;
 using ProductsManagement.Models;
+using ProductsManagement.Services;
 
 namespace ProductsManagement.Controllers
 {
@@ -8,12 +9,19 @@ namespace ProductsManagement.Controllers
     [ApiController]
     public class ProductsController : ControllerBase
     {
-        static List<Product> products = new List<Product>
+        // static List<Product> products = new List<Product>
+        // {
+        //     new Product { Id = 1, Name = "Laptop", Description = "Laptop is 12cm long", Price = 999.99M },
+        //     new Product { Id = 2, Name = "SmartPhone", Price = 499.99M },
+        //     new Product { Id = 3, Name = "iWatch", Price = 199.99M }
+        // };
+
+        private readonly IProductService service;
+
+        public ProductsController(IProductService productService)
         {
-            new Product { Id = 1, Name = "Laptop", Description = "Laptop is 12cm long", Price = 999.99M },
-            new Product { Id = 2, Name = "SmartPhone", Price = 499.99M },
-            new Product { Id = 3, Name = "iWatch", Price = 199.99M }
-        };
+            service = productService;
+        }
         // GET
         [HttpGet]
         public IActionResult GetProducts()
