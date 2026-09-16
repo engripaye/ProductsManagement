@@ -22,7 +22,8 @@ public class ProductService: IProductService
 
     public IEnumerable<Product> GetAllProducts()
     {
-        throw new NotImplementedException();
+        var products = context.Products.ToList();
+        
     }
 
     public Product? GetProductById(int id)
