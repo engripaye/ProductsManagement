@@ -38,6 +38,13 @@ namespace ProductsManagement.Controllers
             return Ok(response);
         }
 
+        [HttpPost]
+        public IActionResult CreateProduct(Product product)
+        {
+            var createdProduct = service.AddProduct(product);
+            return CreatedAtAction(nameof(GetProductById), new { id = createdProduct.Id }, createdProduct);
+        }
+
         [HttpPut]
         [Route("{id}")]
         public IActionResult UpdateProduct(int id, Product product)
