@@ -12,7 +12,8 @@ public class ProductService: IProductService
     }
     public void AddProduct(Product product)
     {
-        throw new NotImplementedException();
+        var newProduct = context.Products.Add(product);
+        context.SaveChanges();
     }
     
     public void DeleteProduct(int id)
