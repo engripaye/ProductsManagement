@@ -11,7 +11,7 @@ public class ProductService: IProductService
     {
         context = appDbContext;
     }
-    public Product AddProduct (ProductRequest productRequest)
+    public ProductResponse AddProduct (ProductRequest productRequest)
     {
         var product = new Product
         {
@@ -22,7 +22,16 @@ public class ProductService: IProductService
         };
         var newProduct = context.Products.Add(product);
         context.SaveChanges();
-        return newProduct.Entity;
+        
+        var response = new ProductResponse
+        {
+            Id = newProduct.Entity.Id,
+            Name = newProduct.Entity.Name,
+            Description = newProduct.Entity.Description,
+            Price = newProduct.Entity.Price
+        };
+
+        return response;
 
     }
     
