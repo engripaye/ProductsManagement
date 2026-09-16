@@ -35,6 +35,13 @@ public class ProductService: IProductService
 
     public void UpdateProduct(int id, Product product)
     {
-        
+        var existingProduct = context.Products.Find(id);
+        if (existingProduct != null)
+        {
+            existingProduct.Name = product.Name;
+            existingProduct.Description = product.Description;
+            existingProduct.Price = product.Price;
+            context.SaveChanges();
+        }
     }
 }
